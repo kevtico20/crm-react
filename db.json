@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "ISE Asesores"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "ISE Asesores"
+    },
+    {
+      "nombre": "Josue Actualizado",
+      "empresa": "ISE Asesores",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "Nuevas notas",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "ISE Asesores"
+    },
+    {
+      "nombre": "Kevin",
+      "empresa": "Empresa Software",
+      "email": "jdhkevin@gmail.com",
+      "telefono": "86552095",
+      "notas": "Quiero aprender bastante",
+      "id": 6
+    }
+  ]
+}
